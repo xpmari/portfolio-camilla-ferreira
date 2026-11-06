@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Ilustração demonstrativa de Moda & lifestyle">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff7f4"/><stop offset="1" stop-color="#f7dce5"/></linearGradient><radialGradient id="orb"><stop stop-color="#fff"/><stop offset="1" stop-color="#E85B91" stop-opacity=".2"/></radialGradient></defs>
+    <rect width="400" height="500" rx="32" fill="url(#bg)"/><circle cx="70" cy="90" r="85" fill="url(#orb)"/><circle cx="340" cy="420" r="105" fill="url(#orb)"/>
+    <path d="M40 395q70-70 140 0t180 0" fill="none" stroke="#E85B91" stroke-opacity=".22" stroke-width="5"/>
+    <path d="M130 145l65-35 65 35 38 190H92z" fill="#f4d4df" stroke="#d79ab0" stroke-width="5"/><path d="M195 110q-30 50-65 35M195 110q30 50 65 35" fill="none" stroke="#d79ab0" stroke-width="6"/><path d="M150 205h90" stroke="#fff" stroke-width="8"/>
+    <text x="200" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#49323d">Moda & lifestyle</text>
+    <text x="200" y="460" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#a66b83">PRÉVIA ILUSTRATIVA</text></svg>
