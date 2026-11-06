@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Ilustração demonstrativa de Lifestyle">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff7f4"/><stop offset="1" stop-color="#f7dce5"/></linearGradient><radialGradient id="orb"><stop stop-color="#fff"/><stop offset="1" stop-color="#E85B91" stop-opacity=".2"/></radialGradient></defs>
+    <rect width="400" height="500" rx="32" fill="url(#bg)"/><circle cx="70" cy="90" r="85" fill="url(#orb)"/><circle cx="340" cy="420" r="105" fill="url(#orb)"/>
+    <path d="M40 395q70-70 140 0t180 0" fill="none" stroke="#E85B91" stroke-opacity=".22" stroke-width="5"/>
+    <rect x="125" y="145" width="155" height="195" rx="22" fill="#fffaf7" stroke="#d9a7b8" stroke-width="5"/><path d="M165 145v-25q0-22 38-22t38 22v25" fill="none" stroke="#d9a7b8" stroke-width="9"/><path d="M165 230q35-45 75 0" fill="none" stroke="#e85b91" stroke-width="8"/><circle cx="202" cy="205" r="18" fill="#f4c6d5"/>
+    <text x="200" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#49323d">Lifestyle</text>
+    <text x="200" y="460" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#a66b83">PRÉVIA ILUSTRATIVA</text></svg>

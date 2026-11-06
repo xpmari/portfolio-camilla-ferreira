@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Ilustração demonstrativa de Beleza & skincare">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff7f4"/><stop offset="1" stop-color="#f7dce5"/></linearGradient><radialGradient id="orb"><stop stop-color="#fff"/><stop offset="1" stop-color="#E85B91" stop-opacity=".2"/></radialGradient></defs>
+    <rect width="400" height="500" rx="32" fill="url(#bg)"/><circle cx="70" cy="90" r="85" fill="url(#orb)"/><circle cx="340" cy="420" r="105" fill="url(#orb)"/>
+    <path d="M40 395q70-70 140 0t180 0" fill="none" stroke="#E85B91" stroke-opacity=".22" stroke-width="5"/>
+    <rect x="155" y="105" width="105" height="245" rx="25" fill="#fffaf7" stroke="#d9a7b8" stroke-width="5"/><rect x="180" y="75" width="55" height="40" rx="8" fill="#dca5b7"/><rect x="170" y="190" width="75" height="78" rx="10" fill="#f7d5df"/><circle cx="207" cy="228" r="20" fill="#e85b91"/><path d="M180 290h55" stroke="#dca5b7" stroke-width="5"/>
+    <text x="200" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#49323d">Beleza & skincare</text>
+    <text x="200" y="460" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#a66b83">PRÉVIA ILUSTRATIVA</text></svg>
